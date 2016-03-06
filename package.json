@@ -1,0 +1,21 @@
+{
+    "name": "headerparser",
+    "version": "1.0.0",
+    "description": "FCC Header Parser",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Junicus/fcc-headerparser.git"
+    },
+    "keywords": [
+        "node",
+        "express",
+        "FCC"
+    ],
+    "author": "Junicus",
+    "license": "ISC"
+}
